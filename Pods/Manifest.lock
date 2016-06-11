@@ -1,0 +1,26 @@
+PODS:
+  - Crashlytics (3.7.1):
+    - Fabric (~> 1.6.3)
+  - DataProvider (1.0.0)
+  - EZSwiftExtensions (1.5)
+  - Fabric (1.6.7)
+  - Quick (0.9.2)
+  - SnapKit (0.21.0)
+
+DEPENDENCIES:
+  - Crashlytics
+  - DataProvider
+  - EZSwiftExtensions
+  - Fabric
+  - Quick
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Crashlytics: 3cdd4c9655be68032a0cf0379e0fb5ef6af22cad
+  DataProvider: 71b44ec08a2eab9dd0a436967b19a21622d30949
+  EZSwiftExtensions: fe78d7d4ac34f5c8c36415d4acee49ba67c9732a
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
+  SnapKit: 2756fe24b706367af224c9c508d2f9166d03354c
+
+COCOAPODS: 0.39.0
